@@ -1,0 +1,18 @@
+@media (min-width: 992px) {
+  .header-contacts__item:hover, .footer-contacts__item:hover, .footer-login__item:hover, .footer-nav__item:hover, .login__item:hover {
+    color: #ffde00;
+  }
+  .footer-bottom a:hover {
+    color: #fff;
+  }
+  .nav__item:hover {
+    background-color: #3d3d3d;
+    color: #ffde00;
+  }
+  .nav__item:hover i {
+    background-color: rgba(171, 171, 171, 0.1);
+  }
+  .nav__item:hover i path {
+    stroke: #ffde00;
+  }
+}
